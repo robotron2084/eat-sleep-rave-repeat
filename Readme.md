@@ -1,4 +1,4 @@
-# Eat. Sleep. Rave. Repeat
+# Eat. Sleep. Rave. Repeat.
 
 This is my Ludum Dare 47 jam entry. It is a 2019.4 LTS unity project.
 
