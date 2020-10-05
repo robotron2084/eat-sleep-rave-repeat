@@ -4,20 +4,24 @@ This is my Ludum Dare 47 jam entry. It is a 2019.4 LTS unity project.
 
 ![](ss1.png)
 
-Controls:
+#### Controls
+
 WASD or Arrow Keys for movement.
 Space Bar to interact.
 
-Credits
+### Credits
+
 Code and art by me
 Additional animation by hinduballer
 
-Special Thanks
+### Special Thanks
+
 Andrew Seward for his [Game Jam Starter Kit](https://gitlab.com/ASeward/gamejamstarterkit)
 
 [MonsterLove for StateMachine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 
-Music
+### Music
+
 Tracks available via Creative Commons License:
 
 Net by (029)
