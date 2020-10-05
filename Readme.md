@@ -1,4 +1,4 @@
-Eat. Sleep. Rave. Repeat
+# Eat. Sleep. Rave. Repeat
 
 This is my Ludum Dare 47 jam entry. It is a 2019.4 LTS unity project.
 
@@ -14,6 +14,7 @@ Additional animation by hinduballer
 
 Special Thanks
 Andrew Seward for his [Game Jam Starter Kit](https://gitlab.com/ASeward/gamejamstarterkit)
+
 [MonsterLove for StateMachine](https://github.com/thefuntastic/Unity3d-Finite-State-Machine)
 
 Music
