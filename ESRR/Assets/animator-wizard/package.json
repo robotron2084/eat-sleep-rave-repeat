@@ -1,0 +1,12 @@
+{
+    "name": "com.enemyhideout.animatron",
+    "displayName": "Animatron",
+    "version": "0.0.3",
+    "unity": "2018.4",
+    "description": "A utility to help initialize animators, transitions, and states.",
+    "keywords": [
+        "animation",
+        "unity"
+    ],
+    "category": "Unity"
+}

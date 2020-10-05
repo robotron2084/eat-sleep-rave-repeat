@@ -1,0 +1,14 @@
+{
+  "name": "com.aseward.game-jam-starter-kit.healthsystem",
+  "displayName": "[Game Jam Starter Kit] Health System",
+  "description": "Health system is a simple and easy way to implement health for game objects. Includes events, useful extension methods, and pre-made UI progress bars.",
+  "version": "0.0.1",
+  "unity": "2017.1",
+  "license": "CC BY 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ASeward/gamejamstarterkit.git#health_system"
+  },
+  "editorOnly": false,
+  "upmSupport": true
+}

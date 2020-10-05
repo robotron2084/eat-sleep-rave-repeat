@@ -1,0 +1,14 @@
+{
+  "name": "com.aseward.game-jam-starter-kit.camera",
+  "displayName": "[Game Jam Starter Kit] Camera",
+  "description": "Useful camera utilities and components designed to help with making a small scale game.",
+  "version": "0.0.1",
+  "unity": "2017.1",
+  "license": "CC BY 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ASeward/gamejamstarterkit.git#camera"
+  },
+  "editorOnly": false,
+  "upmSupport": true
+}

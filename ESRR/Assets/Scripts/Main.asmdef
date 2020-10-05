@@ -1,0 +1,17 @@
+{
+    "name": "Scripts",
+    "references": [
+        "GUID:6b6966a7adc1098478f11b0f2ab173ce",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:878ceca7d22acc34d8453c51d4b52eaa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

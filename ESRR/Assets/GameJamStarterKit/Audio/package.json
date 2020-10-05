@@ -1,0 +1,14 @@
+{
+  "name": "com.aseward.game-jam-starter-kit.audio",
+  "displayName": "[Game Jam Starter Kit] Audio",
+  "description": "Useful audio components, clips, and other utilities to help with implementing audio features in a small scope game.",
+  "version": "0.0.1",
+  "unity": "2017.1",
+  "license": "CC BY 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ASeward/gamejamstarterkit.git#audio"
+  },
+  "editorOnly": false,
+  "upmSupport": true
+}

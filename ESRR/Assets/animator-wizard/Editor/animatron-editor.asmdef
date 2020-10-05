@@ -1,0 +1,16 @@
+{
+    "name": "animation-retargeting-editor",
+    "references": [
+        "GUID:882021f5dd1114b42b2af50a059a4524"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

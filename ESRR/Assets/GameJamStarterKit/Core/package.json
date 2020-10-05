@@ -1,0 +1,14 @@
+{
+  "name": "com.aseward.game-jam-starter-kit.core",
+  "displayName": "[Game Jam Starter Kit] Core",
+  "description": "Core functionality for Game Jam Starter Kit. All modules depend on this, comes with many useful extensions, components, and other goodies.",
+  "version": "0.0.1",
+  "unity": "2017.1",
+  "license": "CC BY 4.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ASeward/gamejamstarterkit.git#core"
+  },
+  "editorOnly": false,
+  "upmSupport": true
+}
